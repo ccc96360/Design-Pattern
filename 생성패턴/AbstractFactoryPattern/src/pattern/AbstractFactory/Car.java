@@ -1,2 +1,6 @@
-package pattern.AbstractFactory;public interface Car {
+package pattern.AbstractFactory;
+
+public interface Car {
+    public void build();
+
 }
