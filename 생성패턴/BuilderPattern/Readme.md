@@ -149,6 +149,7 @@ Computer 객체 생성
 CPU: i7
 Ram: 32GB.
 Storage: 1024GB
+Computer 객체 생성
 CPU: i3
 Ram: 64GB.
 Storage: 2048GB
