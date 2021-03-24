@@ -3,10 +3,11 @@
 ---
 
 ### 생성 패턴
-> 1. 팩토리 패턴(기초)
-> 2. 싱글톤 패턴
-> 3. 팩토리 메서드 패턴
-> 4. 추상 팩토리 패턴
+> 1. 팩토리 패턴(기초) (Factory Pattern)
+> 2. 싱글톤 패턴 (Singleton Pattern)
+> 3. 팩토리 메서드 패턴 (Factory Method Pattern)
+> 4. 추상 팩토리 패턴 (Abstract Factory Pattern)
+> 5. 빌더 패턴 (Builder Pattern)
 ### 구조 패턴
 > - 추후 추가 예정
 
