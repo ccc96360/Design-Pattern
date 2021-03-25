@@ -23,7 +23,7 @@ public class Hello {
 ...
 ```
 > ###### Hello 클래스를 ```new```키워드를 통해 객체를 생성한 예제이다.
-####실행 결과
+#### 실행 결과
 ```aidl
 안녕하세요~!
 ```
@@ -41,7 +41,7 @@ public class Hello {
         }
     ...
 ```
-####실행 결과
+#### 실행 결과
 ```aidl
 안녕하세요~!
 Hello~!
@@ -63,7 +63,7 @@ Hello~!
         System.out.println(ko2.getMessage());
     }
 ```
-####실행 결과
+#### 실행 결과
 ```aidl
 안녕하세요~!
 안녕~!
@@ -103,7 +103,7 @@ public class Hello implements Cloneable{
     }
 ...
 ```
-####실행 결과
+#### 실행 결과
 ```aidl
 안녕하세요~!
 안녕하세요~!
@@ -137,7 +137,7 @@ public class Hello implements Cloneable {
     }
     ...
 ```
-####실행 결과
+#### 실행 결과
 ```aidl
 Hello 객체 생성
 안녕하세요~!
