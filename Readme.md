@@ -8,6 +8,7 @@
 > 3. 팩토리 메서드 패턴 (Factory Method Pattern)
 > 4. 추상 팩토리 패턴 (Abstract Factory Pattern)
 > 5. 빌더 패턴 (Builder Pattern)
+> 6. 프로토타입 패턴 (Prototype Pattern)
 ### 구조 패턴
 > - 추후 추가 예정
 
