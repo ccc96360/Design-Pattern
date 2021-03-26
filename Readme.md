@@ -10,7 +10,7 @@
 > 5. 빌더 패턴 (Builder Pattern)
 > 6. 프로토타입 패턴 (Prototype Pattern)
 ### 구조 패턴
-> - 추후 추가 예정
+> 1. 어댑터 패턴 (Adapter Pattern)
 
 ### 행동 패턴
 > - 추후 추가 예정
