@@ -11,6 +11,7 @@
 > 6. 프로토타입 패턴 (Prototype Pattern)
 ### 구조 패턴
 > 1. 어댑터 패턴 (Adapter Pattern)
+> 2. 브릿지 패턴 (Bridge Pattern)
 
 ### 행동 패턴
 > - 추후 추가 예정
