@@ -14,8 +14,9 @@
 > 2. 브릿지 패턴 (Bridge Pattern)
 > 3. 복합체 패턴 (Composite Pattern)
 > 4. 장식자 패턴 (Decorator Pattern)
+> 5. 파사드 패턴 (Facade Pattern)
 ### 행동 패턴
 > - 추후 추가 예정
 
 ### 참고 도서
-> 1. [쉽게 배워 바로 써먹는 디자인 패턴 - 한빛 미디어, 저자: 이호진](https://m.hanbit.co.kr/store/books/book_view.html?p_code=B9696096335)
+> 1. [쉽게 배워 바로 써먹는 디자인 패턴 - 한빛 미디어, 저자: 이호진](https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9696096335)
