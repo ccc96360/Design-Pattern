@@ -15,6 +15,7 @@
 > 3. 복합체 패턴 (Composite Pattern)
 > 4. 장식자 패턴 (Decorator Pattern)
 > 5. 파사드 패턴 (Facade Pattern)
+> 6. 플라이웨이트 패턴 (Flyweight Pattern)
 ### 행동 패턴
 > - 추후 추가 예정
 
