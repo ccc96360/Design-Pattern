@@ -16,6 +16,7 @@
 > 4. 장식자 패턴 (Decorator Pattern)
 > 5. 파사드 패턴 (Facade Pattern)
 > 6. 플라이웨이트 패턴 (Flyweight Pattern)
+> 7. 프록시 패턴 (Proxy Pattern)
 ### 행동 패턴
 > - 추후 추가 예정
 
