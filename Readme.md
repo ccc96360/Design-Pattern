@@ -19,6 +19,6 @@
 > 7. 프록시 패턴 (Proxy Pattern)
 ### 행동 패턴
 > 1. 반복자 패턴 (Iterator Pattern)
-
+> 2. 명령 패턴 (Command Pattern)
 ### 참고 도서
 > 1. [쉽게 배워 바로 써먹는 디자인 패턴 - 한빛 미디어, 저자: 이호진](https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9696096335)
