@@ -105,7 +105,7 @@ public class Exec2 implements Command{
     }
 }
 ```
-> ####### Concrete객체를 의존성 주입 받았다.
+> ###### Concrete객체를 의존성 주입 받았다.
 #### 3. 리시버 연결
 ```java
 public class Main {
@@ -157,7 +157,7 @@ public class Main {
         Command cmd3 = new Exec1();
 
         Concrete receiver2 = new Concrete();
-        Command cmd4 = new Exec2(receiver);
+        Command cmd4 = new Exec2(receiver2);
 
         Invoker invoker = new Invoker();
         invoker.setCommand("exec1", cmd3);
