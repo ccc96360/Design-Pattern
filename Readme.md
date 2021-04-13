@@ -22,5 +22,6 @@
 > 2. 명령 패턴 (Command Pattern)
 > 3. 방문자 패턴 (Visitor Pattern)
 > 4. 체인 패턴 (Chain Pattern)
+> 5. 감시자 패턴 (Observer Pattern)
 ### 참고 도서
 > 1. [쉽게 배워 바로 써먹는 디자인 패턴 - 한빛 미디어, 저자: 이호진](https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9696096335)
