@@ -3,8 +3,8 @@
 ---
 
 ### 생성 패턴
-> 1. 팩토리 패턴(기초) (Factory Pattern)
-> 2. 싱글톤 패턴 (Singleton Pattern)
+> 1. [팩토리 패턴(기초) (Factory Pattern)](./생성패턴/FactoryPattern/Readme.md)
+> 2. [싱글톤 패턴 (Singleton Pattern)](./생성패턴/SingletonPattern/)
 > 3. 팩토리 메서드 패턴 (Factory Method Pattern)
 > 4. 추상 팩토리 패턴 (Abstract Factory Pattern)
 > 5. 빌더 패턴 (Builder Pattern)
@@ -23,5 +23,6 @@
 > 3. 방문자 패턴 (Visitor Pattern)
 > 4. 체인 패턴 (Chain Pattern)
 > 5. 감시자 패턴 (Observer Pattern)
+> 6. 중재자 패턴 (Mediator Pattern)
 ### 참고 도서
 > 1. [쉽게 배워 바로 써먹는 디자인 패턴 - 한빛 미디어, 저자: 이호진](https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9696096335)
