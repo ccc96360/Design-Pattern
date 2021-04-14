@@ -10,7 +10,7 @@
 > 5. [빌더 패턴 (Builder Pattern)](./생성패턴/BuilderPattern)
 > 6. [프로토타입 패턴 (Prototype Pattern)](./생성패턴/PrototypePattern)
 ### 구조 패턴
-> 1. [어댑터 패턴 (Adapter Pattern)](./구조패턴/AdapterPattern)
+> 1. [어댑터 패턴 (Adapter Pattern)](./구조패턴/AdpaterPattern)
 > 2. [브릿지 패턴 (Bridge Pattern)](./구조패턴/BridgePattern)
 > 3. [복합체 패턴 (Composite Pattern)](./구조패턴/CompositePattern)
 > 4. [장식자 패턴 (Decorator Pattern)](./구조패턴/DecoratorPattern)
