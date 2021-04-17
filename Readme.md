@@ -25,5 +25,7 @@
 > 5. [감시자 패턴 (Observer Pattern)](./행동패턴/ObserverPattern)
 > 6. [중재자 패턴 (Mediator Pattern)](./행동패턴/MediatorPattern)
 > 7. [상태 패턴 (Status Pattern)](./행동패턴/StatusPattern)
+> 8. [메멘토 패턴 (Memento Pattern)](./행동패턴/MementoPattern)
+
 ### 참고 도서
 > 1. [쉽게 배워 바로 써먹는 디자인 패턴 - 한빛 미디어, 저자: 이호진](https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9696096335)
